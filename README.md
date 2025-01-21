@@ -31,7 +31,7 @@
 <div align="left">
 
 ```js
-Estudante de IPI do IFPE
+Sou Filipe Luiz, 28, estudante de IPI do IFPE. Pretendo desenvolver minhas habilidades.
 ```
 
 </div>
@@ -66,7 +66,7 @@ Estudante de IPI do IFPE
       <kbd>Database</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="mysql" title="MySQL"/>
+      <img width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="mysql" title="MySQL"/>
     </kbd>
     <br>
     <br>
@@ -121,9 +121,9 @@ Estudante de IPI do IFPE
 
 [//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
 
-## Vamos trabalhar juntos!
+## Vamos conversar!
 
-If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="filipeluiz0696@gmail.com">contact me by email</a>, I won't bite, I promise.
+Se você precisa de auxílio quanto a desenvolvimento de sites, sinta-se a vontade para me contar em <a href="filipeluiz0696@gmail.com"> pelo meu email</a>, sinta-se a vontade!
 
   </td>
   </tr>
