@@ -139,6 +139,6 @@ Se você precisa de auxílio quanto a desenvolvimento de sites, sinta-se a vonta
 </div>
 
 ------
-Credit: [10Kartik](https://github.com/10Kartik)
+Creditos do template inicial: [10Kartik](https://github.com/10Kartik)
 
-Last Edited on: 21/01/2025
+Last Edited on: 22/01/2025
