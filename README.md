@@ -134,11 +134,11 @@ Se você precisa de auxílio quanto a desenvolvimento de sites, sinta-se a vonta
 </div>
 
 <div align=center>
-<a href="filipeluiz0696@gmail.com?subject=Oi%20Filipe%20Luiz,%20prazer%20em%20conhecer%20você!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+<a href="mailto:filipeluiz0696@gmail.com?subject=Oi%20Filipe%20Luiz,%20prazer%20em%20conhecer%20você!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 <a href="https://steamcommunity.com/profiles/76561198325298143/" target="_blank"><img width="110px" alt="Steam" src="https://e7.pngegg.com/pngimages/768/845/png-clipart-brand-logo-product-design-font-steam-text-logo.png" /></a>
 </div>
 
 ------
-Creditos do template inicial: [10Kartik](https://github.com/10Kartik)
+Last Edited on: 24/01/2025
 
-Last Edited on: 22/01/2025
+Creditos do template inicial: [10Kartik](https://github.com/10Kartik)
